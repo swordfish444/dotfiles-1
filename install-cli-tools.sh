@@ -43,3 +43,8 @@ brew install ctop
 # awscli
 brew install awscli
 
+# terraform
+brew install terraform
+
+# terragrunt
+brew install terragrunt

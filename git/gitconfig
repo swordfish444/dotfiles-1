@@ -18,8 +18,8 @@
 	process = git-lfs filter-process
 
 [user]
-	name = shyam-habarakada
-	email = shyam.habarakada@smartsheet.com
+	name = skylar-smartsheet
+	email = skylar.graika@smartsheet.com
 
 [color]
     ui = true
